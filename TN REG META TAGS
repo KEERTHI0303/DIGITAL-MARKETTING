@@ -1,0 +1,58 @@
+<head>
+    <!-- Basic SEO -->
+    <title>TNREGINET Portal | Tamil Nadu Registration Department | EC View, Guideline Value & Property Registration</title>
+
+    <meta name="description" content="Official TNREGINET Portal of Tamil Nadu Registration Department. Access Encumbrance Certificate (EC), Guideline Value, Property Registration, Marriage Registration, Document Status, and Online Registration Services.">
+
+    <meta name="keywords" content="TNREGINET, Tamil Nadu Registration Department, EC View Online, Encumbrance Certificate, Guideline Value, Property Registration Tamil Nadu, Marriage Registration, Stamp Duty, Document Registration, tnreginet.gov.in">
+
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Tamil Nadu Registration Department">
+    <meta name="language" content="English">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://tnreginet.gov.in/portal/index.jsp">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="TNREGINET Portal - Tamil Nadu Registration Department">
+    <meta property="og:description" content="Access online property registration, Encumbrance Certificate (EC), guideline value search, marriage registration, and document services in Tamil Nadu.">
+    <meta property="og:url" content="https://tnreginet.gov.in/portal/index.jsp">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="TNREGINET">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TNREGINET Portal - Tamil Nadu Registration Department">
+    <meta name="twitter:description" content="Official portal for EC View, Guideline Value, Property Registration, Marriage Registration, and Registration Services in Tamil Nadu.">
+
+    <!-- Geo Tags -->
+    <meta name="geo.region" content="IN-TN">
+    <meta name="geo.placename" content="Tamil Nadu, India">
+
+    <!-- Theme -->
+    <meta name="theme-color" content="#0066cc">
+
+    <!-- Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "GovernmentOrganization",
+      "name": "Tamil Nadu Registration Department",
+      "url": "https://tnreginet.gov.in/portal/index.jsp",
+      "serviceType": [
+        "Property Registration",
+        "Encumbrance Certificate",
+        "Guideline Value Search",
+        "Marriage Registration",
+        "Document Verification"
+      ],
+      "areaServed": {
+        "@type": "State",
+        "name": "Tamil Nadu"
+      }
+    }
+    </script>
+</head>
